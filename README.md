@@ -1,2 +1,2 @@
 # First-steps
-This is my first steps with using a GitHub
+This is my first steps using a GitHub
